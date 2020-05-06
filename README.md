@@ -16,10 +16,12 @@
 
 ## Usage
 
+### Install
 ```sh
 npm install
 ```
 
+### Run all tests
 ```sh
 python run_tests.py
 ```
