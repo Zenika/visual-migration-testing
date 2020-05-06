@@ -27,7 +27,7 @@ In run_tests.py, update the parameters:
 
 
 ### Run all tests
-Add tests recorded with [cypress-scenario-recorder](https://chrome.google.com/webstore/detail/cypress-scenario-recorder/fmpgoobcionmfneadjapdabmjfkmfekb) in cypress/integration/recorded. Then, run test with:
+Add tests recorded with [cypress-scenario-recorder](https://chrome.google.com/webstore/detail/cypress-scenario-recorder/fmpgoobcionmfneadjapdabmjfkmfekb) in cypress/integration/recorded. Then, run the tests with:
 ```sh
 python run_tests.py
 ```
