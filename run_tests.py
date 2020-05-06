@@ -62,8 +62,8 @@ def change_domain(test_path, baseline_url, migration_url):
 
 
 if __name__ == "__main__":
-    baseline_url = "http://coalescent.brandonsavage.net/"
-    migration_url = "https://migration.coalescent-inc.com/"
+    baseline_url = "http://my-baseline-website/"
+    migration_url = "http://my-migration-website.com/"
 
     # Clear generated tests, videos and screenshots
     os.system("rm -rf cypress/match-screenshots/*")
