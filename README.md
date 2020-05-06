@@ -36,7 +36,7 @@ Tests can be automatically generated on Google Chrome with [cypress-scenario-rec
 View screenshots diff in cypress/match-screenshots/diff
 
 #### Example
-![](/im/example.png)
+![](/im/example.jpg)
 
 
 
