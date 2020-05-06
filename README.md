@@ -20,8 +20,14 @@
 ```sh
 npm install
 ```
+### Configure URLs
+In run_tests.py, update the parameters:
+baseline_url = "http://my-baseline-website/"
+migration_url = "http://my-migration-website.com/"
+
 
 ### Run all tests
+Add tests recorded with [cypress-scenario-recorder](https://chrome.google.com/webstore/detail/cypress-scenario-recorder/fmpgoobcionmfneadjapdabmjfkmfekb) in cypress/integration/recorded. Then, run test with:
 ```sh
 python run_tests.py
 ```
