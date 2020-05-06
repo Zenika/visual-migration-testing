@@ -31,6 +31,11 @@ Add new tests in cypress/integration/recorded
 
 Test scenarios can be recorded on Google Chrome with [cypress-scenario-recorder](https://chrome.google.com/webstore/detail/cypress-scenario-recorder/fmpgoobcionmfneadjapdabmjfkmfekb)
 
+To run individual scenario with the Cypress Test Runner:
+```sh
+./node_modules/.bin/cypress open
+```
+
 ### Results
 
 View screenshots diff in cypress/match-screenshots/diff
