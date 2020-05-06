@@ -40,11 +40,11 @@ python run_tests.py
 ./node_modules/.bin/cypress open
 ```
 
-### Results
+## Results
 
 View screenshots diff in cypress/match-screenshots/diff
 
-#### Example
+### Example
 ![](/im/example.jpg)
 
 
