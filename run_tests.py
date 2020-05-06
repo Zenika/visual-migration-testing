@@ -84,6 +84,5 @@ if __name__ == "__main__":
         change_domain(baseline_test_path, baseline_url, migration_url)
 
     # Run Cypress tests
-    record_video = False
     os.system('npx cypress run --spec "cypress/integration/baseline/*.js"')
     os.system('npx cypress run --spec "cypress/integration/migration/*.js"')
