@@ -29,7 +29,7 @@ Cypress test are located in cypress/integration
 
 Add new tests in cypress/integration/recorded
 
-Tests can be automatically generated on Google Chrome with [cypress-scenario-recorder](https://chrome.google.com/webstore/detail/cypress-scenario-recorder/fmpgoobcionmfneadjapdabmjfkmfekb)
+Test scenarios can be recorded on Google Chrome with [cypress-scenario-recorder](https://chrome.google.com/webstore/detail/cypress-scenario-recorder/fmpgoobcionmfneadjapdabmjfkmfekb)
 
 ### Results
 
