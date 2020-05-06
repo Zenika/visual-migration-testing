@@ -22,8 +22,8 @@ npm install
 ```
 ### Configure URLs
 In run_tests.py, update the parameters:
-baseline_url = "http://my-baseline-website/"
-migration_url = "http://my-migration-website.com/"
+* baseline_url = "http://my-baseline-website/"
+* migration_url = "http://my-migration-website.com/"
 
 
 ### Run all tests
